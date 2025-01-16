@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SM2yoUTog5w=",
+  "success": true,
+  "projectFilePath": "/home/legium/Estrutura de Dados/ProjetoTransporte/ProjetoTransporte/ProjetoTransporte.csproj",
+  "expectedPackageFiles": [
+    "/home/legium/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
